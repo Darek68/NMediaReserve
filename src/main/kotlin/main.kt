@@ -26,7 +26,7 @@ fun main() {
         .setToken("ckGJ8OgzQfKWHAuLCFaeOF:APA91bGBWNfCCUhNzJ84PAkTE92JAJBcyZWY9nS0-Mhbl5Kb3q6DqXXugQg3MBgtz7ZZm8VLgwI_m4P5LfgbQhPtwbaUHqi-Mg7tn_dEGi6l007YL56KG9epdv4aFNjq1z7upEYoK6VZ")
         .build() */
     val message = Message.builder()
-        .putData("action", "NEWPOST1")
+        .putData("action", "NEWPOST22")
         .putData("content", """{         
           "postAuthor": "Dariusz",
           "text": "Оооочень болькнкк  иолдиол иолдитолд  толд толд толд толд толд толдз толдж толд толд тол от kobh jivg hucf gc fgycf gycf gvg hbhj bh олир оли рол мипр мпр м"
